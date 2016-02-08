@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class NumberWizards : MonoBehaviour {
-
+	//test
 	int max;
 	int min;
 	int guess;
